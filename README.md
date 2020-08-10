@@ -1,17 +1,19 @@
 ## hello world! 👋🐱‍💻
 
-![os](https://img.shields.io/badge/open%20source-%E2%9D%A4-blue) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shiftgeist) ![quality](https://img.shields.io/badge/code%20quality-100-brightgreen)
+![os](https://img.shields.io/badge/open%20source-%E2%9D%A4-blue) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shiftgeist) [![linkedin](https://img.shields.io/badge/connect-on%20linkedin-blue)](https://linkedin.com/in/fhungenberg)
 
-- 🔭 i’m currently working as a product developer at [hosting.de](hosting.de)
-- 🌱 i’m currently learning Firebase & Vue 3
-- 👯 i’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with existance
-- 💬 ask me anything
-- 📫 how to reach me: hi[@shiftgeist](//twitter.com/shiftgeist).com
-- 😄 the name: 💨👻 the name is intended to descript the connection of two worlds. the "shift" key as a symbol for development, "geist" (ghost) for the thought that goes into every design decision
-- ⚡ fun fact: i like lo[fi,wercase]
+🔭 full-time product developer at [hosting.de](https://hosting.de)
 
-[![twitter](https://github.com/feathericons/feather/blob/master/icons/twitter.svg)](//twitter.com/shiftgeist)
-[![linkedin](https://github.com/feathericons/feather/blob/master/icons/linkedin.svg)](//linkedin.com/in/fhungenberg)
-[![mail](https://github.com/feathericons/feather/blob/master/icons/mail.svg)](mailto:hi@shiftgeist.com)
-[![dribbble](https://github.com/feathericons/feather/blob/master/icons/dribbble.svg)](//dribbble.com/shiftgeist)
+🌱 i’m currently learning firebase & vue 3
+
+💬 talk to me about design, memes, anything that interests you
+
+📫 ping me: hi[@shiftgeist](//twitter.com/shiftgeist).com
+
+---
+
+😄 shiftgeist? the name describes the connection of two worlds - "shift" key for development, "geist" (ghost) for the thought that goes into every design
+
+⚡ fun fact: i like lo[fi,wercase]
+
+🧰 i daily drive: [st](https://st.suckless.org/), [zsh](https://www.zsh.org/), [tmux](https://github.com/tmux/tmux), [subword](https://github.com/ow--/vscode-subword-navigation), [feather](https://github.com/feathericons/feather), [figma](https://www.figma.com), [code](https://github.com/microsoft/vscode), music 
