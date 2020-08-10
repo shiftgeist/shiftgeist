@@ -1,6 +1,6 @@
 ## hello world! 👋🐱‍💻
 
-![os](https://img.shields.io/badge/open%20source-%E2%9D%A4-blue) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shiftgeist) [![linkedin](https://img.shields.io/badge/connect-on%20linkedin-blue)](https://linkedin.com/in/fhungenberg)
+![age](https://img.shields.io/badge/age-22-E53935) ![focus](https://img.shields.io/badge/focus-frontend-A34C5D) ![living](https://img.shields.io/badge/living-germany-775978) ![open](https://img.shields.io/badge/open%20source-%E2%9D%A4-356DA0) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shiftgeist)
 
 🔭 full-time product developer at [hosting.de](https://hosting.de)
 
