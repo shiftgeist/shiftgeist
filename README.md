@@ -4,16 +4,16 @@
 
 🔭 full-time product developer at [hosting.de](https://hosting.de)
 
-🌱 i’m currently learning firebase & vue 3
+🌱 always upgrading my svelte stack
 
 💬 talk to me about design, memes, anything that interests you
 
-📫 ping me: hi[@shiftgeist](//twitter.com/shiftgeist).com
+📫 ping me: hi[@shiftgeist](https://twitter.com/shiftgeist)[.com](https://shiftgeist.com)
 
----
+🧰 projects: [feather-helper](https://github.com/shiftgeist/feather-helper)
 
-😄 shiftgeist? the name describes the connection of two worlds - "shift" key for development, "geist" (ghost) for the thought that goes into every design
+📝 editor: [code](https://www.archlinux.org/packages/community/x86_64/code/) (#1 plugin [subword](https://github.com/ow--/vscode-subword-navigation))
 
-⚡ fun fact: i like lo[fi,wercase]
+⚡ i daily drive: [figma](https://www.figma.com), [svelte](https://svelte.dev/), [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 
-🧰 i daily drive: [st](https://st.suckless.org/) or [lxterminal](https://github.com/lxde/lxterminal), [zsh](https://www.zsh.org), [dvtm](https://github.com/martanne/dvtm), [figma](https://www.figma.com), [code](https://github.com/microsoft/vscode) ([subword](https://github.com/ow--/vscode-subword-navigation)), [feather](https://www.npmjs.com/package/feather-helper), [ncu](https://www.npmjs.com/package/npm-check-updates), [brave](https://brave.com/shi189)
+⛷️ support me: [brave ref](https://brave.com/shi189)
