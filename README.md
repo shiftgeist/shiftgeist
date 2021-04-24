@@ -1,4 +1,4 @@
-[Skip README.md](#choose-pinned-repositories)
+[Skip README.md](#skip)
 
 ---
 
@@ -35,3 +35,5 @@ A few things about me:
 ## Statistics
 
 ![shiftgeist's github stats](https://github-readme-stats.vercel.app/api?username=shiftgeist&show_icons=true&title_color=FF506D&icon_color=77614b&text_color=19F9D8&bg_color=141321&border_radius=8)
+
+<div id="skip"></div>
