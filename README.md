@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/shiftgeist/">
-    <img alt="shiftgeist" title="shiftgeist" src="assets/header.png" width="450">
+    <img alt="shiftgeist" title="shiftgeist" src="https://raw.githubusercontent.com/shiftgeist/meta/main/assets/header.png" width="450">
   </a>
 </h1>
 
