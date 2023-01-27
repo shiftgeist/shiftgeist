@@ -1,9 +1,7 @@
-<h1>
-  <img alt="shiftgeist" src="https://raw.githubusercontent.com/shiftgeist/meta/main/assets/header.png" width="600">
-</h1>
+# shiftgeist
 
-- 💚 Vue + Vite + Hugo
-- 🪄 CSS + Tailwind
-- 👽 Python
-- 🐧 Linux Hackerman
-- 🎨 Figma + Affinity Photo
+![shiftgeist logo](https://raw.githubusercontent.com/shiftgeist/meta/eefdae266e6e8a1a0f2b1e4476d2e46b02253737/assets/banner.png)
+
+- 💚 Vue + Vite Programmer
+- 🎨 Figma Designer
+- 🐧 Penguin Keeper
